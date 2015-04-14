@@ -1,0 +1,27 @@
+{
+  "name": "gulp-recipe-deployd",
+  "version": "0.1.0",
+  "description": "Receipe for Deployd integration",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PGS-dev/gulp-recipe-deployd.git"
+  },
+  "keywords": [
+    "PGS",
+    "gulp",
+    "gulp-recipe",
+    "deployd",
+    "dpd"
+  ],
+  "author": {
+    "name": "PGS Front"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "deployd": "^0.8.0"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}
