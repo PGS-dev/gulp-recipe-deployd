@@ -1,7 +1,7 @@
 {
   "name": "gulp-recipe-deployd",
   "version": "0.1.0",
-  "description": "Receipe for Deployd integration",
+  "description": "Recipe for Deployd integration",
   "main": "main.js",
   "repository": {
     "type": "git",
@@ -14,14 +14,20 @@
     "deployd",
     "dpd"
   ],
-  "author": {
-    "name": "PGS Front"
-  },
+  "author": "PGS Front",
   "license": "ISC",
   "dependencies": {
     "deployd": "^0.8.0"
   },
   "engines": {
     "node": ">=0.12.0"
+  },
+  "bugs": {
+    "url": "https://github.com/PGS-dev/gulp-recipe-deployd/issues"
+  },
+  "homepage": "https://github.com/PGS-dev/gulp-recipe-deployd",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

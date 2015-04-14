@@ -1,7 +1,5 @@
 # [gulp-recipe](https://github.com/PGS-dev/gulp-recipe-loader)-deployd [![Dependency Status][depstat-image]][depstat-url]
 [![NPM][npm-image]][npm-url]
-# gulp-recipe-loader [![Dependency Status][depstat-image]][depstat-url]
-[![NPM][npm-image]][npm-url]
 
 Easy Deployd integration
 
